@@ -7,6 +7,7 @@ icon: "fa-binoculars"
 icon-style: "solid"
 auto-header: "PLUGIN NAME"
 hide: false
+text-align: left
 ---
  
 The NAME plugin is part of an experiment by researchers at the Sorbonne aiming to identify the mechanisms that promote or endanger the visibility of content on Netflix. The overall goal is to assess the extent to which prominence carries economic weight in the audiovisual sector.
