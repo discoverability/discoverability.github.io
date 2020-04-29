@@ -7,31 +7,21 @@ auto-header: "Team"
 hide: false
 ---
 
-## Joëlle Farchy 
+## Joëlle Farchy, Professor
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet diam non tortor ultrices, quis egestas justo egestas. Aenean interdum ipsum neque, ut auctor ante congue sed. Duis porta, leo et imperdiet viverra, est metus pharetra enim, congue elementum massa dolor at mi. Praesent fermentum a leo vitae suscipit. Donec. 
-
-## Nicolas Herbaut, PhD Computer Science
+## Nicolas Herbaut, Lecturer - Computer Science
 
 ![nico](/assets/images/nico.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet diam non tortor ultrices, quis egestas justo egestas. Aenean interdum ipsum neque, ut auctor ante congue sed. Duis porta, leo et imperdiet viverra, est metus pharetra enim, congue elementum massa dolor at mi. Praesent fermentum a leo vitae suscipit. Donec.
-
-## Steven Tallec, MEcon
+## Steven Tallec, Junior Researcher
 
 ![steven](/assets/images/stallec.jpeg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet diam non tortor ultrices, quis egestas justo egestas. Aenean interdum ipsum neque, ut auctor ante congue sed. Duis porta, leo et imperdiet viverra, est metus pharetra enim, congue elementum massa dolor at mi. Praesent fermentum a leo vitae suscipit. Donec.
-
-## Grégoire Bideau, MEcon
+## Grégoire Bideau, Junior Researcher
 
 ![gregoire](/assets/images/gbideau.jpeg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet diam non tortor ultrices, quis egestas justo egestas. Aenean interdum ipsum neque, ut auctor ante congue sed. Duis porta, leo et imperdiet viverra, est metus pharetra enim, congue elementum massa dolor at mi. Praesent fermentum a leo vitae suscipit. Donec
-
-## Sylvain Vocale, Undergraduate Computer Science
+## Sylvain Vocale, Undergraduate - Computer Science
 
 ![sylvain](/assets/images/svocale.jpeg)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet diam non tortor ultrices, quis egestas justo egestas. Aenean interdum ipsum neque, ut auctor ante congue sed. Duis porta, leo et imperdiet viverra, est metus pharetra enim, congue elementum massa dolor at mi. Praesent fermentum a leo vitae suscipit. Donec.
 
