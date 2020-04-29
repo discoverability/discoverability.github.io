@@ -9,7 +9,7 @@ hide: false
 
 ## Joëlle Farchy 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet diam non tortor ultrices, quis egestas justo egestas. Aenean interdum ipsum neque, ut auctor ante congue sed. Duis porta, leo et imperdiet viverra, est metus pharetra enim, congue elementum massa dolor at mi. Praesent fermentum a leo vitae suscipit. Donec.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquet diam non tortor ultrices, quis egestas justo egestas. Aenean interdum ipsum neque, ut auctor ante congue sed. Duis porta, leo et imperdiet viverra, est metus pharetra enim, congue elementum massa dolor at mi. Praesent fermentum a leo vitae suscipit. Donec. 
 
 ## Nicolas Herbaut, PhD Computer Science
 
