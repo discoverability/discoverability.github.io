@@ -1,8 +1,8 @@
 ---
 title: Discoverability
 order: 1
-cover-photo: "assets/images/mse.jpg"
-cover-photo-alt: "Maison des Sciences Economiques"
+cover-photo: ""
+cover-photo-alt: ""
 icon: "fa-binoculars"
 icon-style: "solid"
 auto-header: "PLUGIN NAME"
