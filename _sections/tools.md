@@ -13,7 +13,7 @@ hide: false
 
 #### Chrome/Chromium Extension
 
-Available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/media-discoverability-res/dhpepckfioaanjknlhhgahnpmfpchkio)
+Available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/onabbokfokfoekjmlfonafngaffhjmpj)
 
 ### Discoverability Reasearch Data Expoitation
 
