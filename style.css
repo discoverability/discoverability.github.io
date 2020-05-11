@@ -511,3 +511,9 @@ div[id*='person'] {
     }
 
 }
+
+
+.flag{
+    width:32px;
+    height:16px;
+}
