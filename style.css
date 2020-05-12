@@ -125,6 +125,11 @@ footer {
     max-width: var(--twoColumnWidth);
 }
 
+#lang{
+    grid-column: 5 / span 1;
+    grid-row: 1 / span 1;
+}
+
 #who {
     grid-column: 7 / span 4;
     grid-row: 1 / span 1;
@@ -181,19 +186,24 @@ footer {
 
     #legal {
         grid-column: 1 / span all;
-        grid-row: 2 / span 1;
+        grid-row: 3 / span 1;
     }
 
     #who {
         grid-column: 1 / span 4;
-        grid-row: 1 / span 1;
+        grid-row: 2 / span 1;
         padding-bottom: 30px;
     }
 
     #paris1link {
         grid-column: 5 / span 1;
-        grid-row: 1 / span 1;
+        grid-row: 2 / span 1;
     }
+    
+    #lang{
+        grid-column: 1 / span 1;
+        grid-row: 1 / span 1;
+    }   
     
     #paris1logo {
         max-width: var(--mobileTwoColumnWidth);
@@ -510,10 +520,4 @@ div[id*='person'] {
         font-size: var(--fontSizeFixed1);
     }
 
-}
-
-
-.flag{
-    width:32px;
-    height:16px;
 }
