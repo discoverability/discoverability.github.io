@@ -416,6 +416,16 @@ div[id*='person'] {
     grid-column: 1 / span 3;
     grid-row: 4 / span 1;
 }
+#person6 {
+    grid-column: 1 / span 3;
+    grid-row: 5 / span 1;
+}
+
+#person7 {
+    grid-column: 4 / span 3;
+    grid-row: 5 / span 1;
+}
+
 
 .job_title {
     font-family: var(--fontFamilyRobotoMono);
