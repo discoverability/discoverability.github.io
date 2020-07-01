@@ -76,7 +76,7 @@ sup {
 
 body {
     font-family: var(--fontFamilyRoboto);
-    font-weight: 200;
+    font-weight: 300;
     font-size: var(--fontSizeFixed2);
     line-height: var(--lineHeightBody2);
 }
